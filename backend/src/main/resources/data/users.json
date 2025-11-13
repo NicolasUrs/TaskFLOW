@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "admin",
+    "email": "admin@taskflow.com",
+    "password": "$2a$10$dV7fg99Ma1Lj5BcjSdY27.o0sb65zOwFfIpOSSHHuNJYvu3OW7SKC",
+    "role": "ADMIN"
+  },
+  {
+    "id": 2,
+    "name": "Nicolas",
+    "email": "nicosru04@gmail.com",
+    "password": "$2a$10$INCMDp23hMK1n/zplyMs8uN6qA1xMoGWAv3xtGpzSQVcUsKMcyTHO",
+    "role": "USER"
+  },
+  {
+    "id": 3,
+    "name": "Andrei",
+    "email": "andrei2004@gmail.com",
+    "password": "$2a$10$FGAtqKiQxqVWs4TdjpDJqewrnsAqUhr2NQyeCZChUm4vfEJBrkhle",
+    "role": "USER"
+  }
+]

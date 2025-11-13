@@ -1,0 +1,57 @@
+[
+  {
+    "id": "aff4a186-ea71-4804-8a14-4bf1153222a1",
+    "user": {
+      "id": 0,
+      "name": "N/A",
+      "email": "admin@taskflow.com"
+    },
+    "service": "ziua mea",
+    "dateTime": "2025-12-06T00:00:00",
+    "createdBy": "admin@taskflow.com"
+  },
+  {
+    "id": "7e8cbe09-acca-48aa-aef0-5131b90de274",
+    "user": {
+      "id": 0,
+      "name": "N/A",
+      "email": "nicosru04@gmail.com"
+    },
+    "service": "GYM",
+    "dateTime": "2025-11-14T14:00:00",
+    "createdBy": "nicosru04@gmail.com"
+  },
+  {
+    "id": "a9bcaecc-0398-4f3b-8d42-83e6ad757239",
+    "user": {
+      "id": 0,
+      "name": "N/A",
+      "email": "nicosru04@gmail.com"
+    },
+    "service": "Learning ",
+    "dateTime": "2025-11-14T16:00:00",
+    "createdBy": "nicosru04@gmail.com"
+  },
+  {
+    "id": "dd52a2c7-a5c4-4fea-9916-f79f123a1c35",
+    "user": {
+      "id": 0,
+      "name": "N/A",
+      "email": "nicosru04@gmail.com"
+    },
+    "service": "Dinner",
+    "dateTime": "2025-11-14T20:00:00",
+    "createdBy": "nicosru04@gmail.com"
+  },
+  {
+    "id": "bad16e3b-7b95-41f4-84fc-002b1ac9b36d",
+    "user": {
+      "id": 0,
+      "name": "N/A",
+      "email": "andrei2004@gmail.com"
+    },
+    "service": "cumparaturi",
+    "dateTime": "2025-11-14T17:00:00",
+    "createdBy": "andrei2004@gmail.com"
+  }
+]
