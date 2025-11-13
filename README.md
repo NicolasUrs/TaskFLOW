@@ -1,50 +1,47 @@
-# 🗂️ TaskFlow — Full-Stack Appointments Manager
+# 🗂️ TaskFlow — Appointments Manager
 
-TaskFlow este o aplicație **full-stack** realizată cu **Spring Boot (backend)** și **React (frontend)**, care permite utilizatorilor să își gestioneze programările într-un mod rapid și intuitiv.  
-Aplicația include **autentificare cu JWT**, **validări**, **persistență în fișiere JSON** și un dashboard modern pentru gestionarea programărilor.
-
----
-
-## 🚀 Funcționalități principale
-
-### 👤 Autentificare & Autorizare
-- Înregistrare utilizator
-- Login utilizator
-- Generare **JWT Token**
-- Parole criptate cu **BCrypt**
-- Rute protejate (doar userii logați pot accesa)
-
-### 📅 Gestionarea programărilor
-- Creare programări (cu formular)
-- Editare dată/ora
-- Ștergere programări
-- Vizualizare programări:
-  - **Admin:** vede toate programările
-  - **User:** vede doar programările sale
-
-### 💾 Persistență
-- Toate datele (useri + programări) sunt salvate în **fișiere JSON**
-- La pornirea backend-ului, datele sunt încărcate în memorie
+TaskFlow is a **full-stack application** built using **Spring Boot (backend)** and **React (frontend)** for managing appointments efficiently.  
+The system provides **JWT authentication**, **input validation**, **JSON-based persistence**, and a modern dashboard for users and administrators.
 
 ---
 
-## 🛠️ Tehnologii folosite
+## 🚀 Main Features
+
+### 👤 Authentication & Authorization
+- User registration  
+- User login  
+- **JWT Token** generation  
+- Password hashing with **BCrypt**  
+- Protected routes (only authenticated users can access the app)
+
+### 📅 Appointment Management
+- Create appointments  
+- Edit date/time  
+- Delete appointments  
+- View appointments:
+  - **Admin** → can see all appointments  
+  - **User** → can only see their own  
+
+### 💾 Persistence
+- All data (users + appointments) is stored in **JSON files**
+- Data is loaded into memory at backend startup
+
+---
+
+## 🛠️ Technologies Used
 
 ### Backend (Java + Spring Boot)
-- Spring Web
-- Spring Security
-- JWT (jjwt)
-- BCrypt PasswordEncoder
+- Spring Web  
+- Spring Security  
+- JWT (jjwt)  
+- BCrypt PasswordEncoder  
+- Gson (JSON storage)  
 - Quartz (optional)
-- Gson pentru fișiere JSON
 
 ### Frontend (React)
-- React + Hooks
-- react-router-dom
-- Fetch API
-- CSS custom pentru UI
+- React + Hooks  
+- react-router-dom  
+- Fetch API  
+- Custom CSS styling  
 
 ---
-
-## 📁 Arhitectură proiect
-
